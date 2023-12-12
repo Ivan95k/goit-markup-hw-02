@@ -1,0 +1,109 @@
+body {
+  color: #434455;
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.02em;
+}
+li {
+  list-style-type: none;
+}
+.header {
+  background-color: #fff;
+}
+.header-logo {
+  color: #2e2f42;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.02em;
+}
+.header-logo span {
+  color: #4d5ae5;
+}
+.header-nav {
+  font-weight: 500;
+}
+.hero-title {
+  background-color: #2e2f42;
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 0.02em;
+}
+.hero button {
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px;
+}
+.about-list {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+}
+.team-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  line-height: 40px; /* 111.111% */
+  text-transform: capitalize;
+}
+.item-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px; /* 120% */
+}
+.team-list-item {
+  text-align: center;
+  width: 264px;
+  height: 380px;
+}
+.team-list-item {
+  border-radius: 0px 0px 4px 4px;
+  background: #fff;
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+
+.projects-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px; /* 111.111% */
+  text-transform: capitalize;
+}
+.projects-list-item {
+  width: 360px;
+  height: 420px;
+}
+.footer-loo {
+  color: #2e2f42;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.02em;
+}
+.footer-logo span {
+  color: #4d5ae5;
+}
