@@ -49,13 +49,15 @@ li {
 .nav-adress {
   font-style: normal;
 }
-.header-items .hero-title {
+/* section hero */
+
+.hero-title {
   background-color: #2e2f42;
   color: #fff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px; /* 107.143% */
+  line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
 }
 .hero button {
@@ -63,6 +65,7 @@ li {
   letter-spacing: 0.04em;
   background: #4d5ae5;
 }
+/* section about */
 .about-list {
   color: #2e2f42;
   font-size: 20px;
