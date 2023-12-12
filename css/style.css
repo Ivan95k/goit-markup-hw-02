@@ -98,17 +98,29 @@ li {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px; /* 120% */
+  letter-spacing: ;
 }
 .subtitle-text {
-  font-size: 16;
+  font-size: 16px;
   line-height: 1.5;
   color: #434455;
+}
+/* section team */
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 .team-list-item {
   text-align: center;
 }
 .team-list-item {
   background: #fff;
+}
+.item-title {
+  letter-spacing: 0.02em;
 }
 
 .projects-title {
