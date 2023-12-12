@@ -40,6 +40,13 @@ li {
 .header-item-link:focus {
   color: #404bbf;
 }
+.header-item {
+  color: #434455;
+}
+.header-item:hover,
+.header-item:focus {
+  color: #404bbf;
+}
 .nav-adress {
   font-style: normal;
 }
