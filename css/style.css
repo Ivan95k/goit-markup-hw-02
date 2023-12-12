@@ -122,7 +122,10 @@ li {
 .item-title {
   letter-spacing: 0.02em;
 }
-
+.team-item-text {
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
 /* Section project */
 .projects-title {
   color: #2e2f42;
