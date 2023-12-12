@@ -34,8 +34,10 @@ li {
 .header-item-link {
   color: #2e2f42;
 }
-.header-item-link:hover,
-.header-items-link:focus {
+.header-item-link:hover {
+  color: #404bbf;
+}
+.header-item-link:focus {
   color: #404bbf;
 }
 .nav-adress {
