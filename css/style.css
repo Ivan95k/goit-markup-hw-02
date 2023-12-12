@@ -72,8 +72,6 @@ li {
 }
 .team-list-item {
   text-align: center;
-  /* width: 264px; */
-  /* height: 380px; */
 }
 .team-list-item {
   border-radius: 0px 0px 4px 4px;
@@ -89,10 +87,6 @@ li {
   text-transform: capitalize;
 }
 
-/* .projects-list-item { 
-  width: 360px;
-  height: 420px;
-}*/
 .footer-loo {
   color: #2e2f42;
   text-decoration: none;
