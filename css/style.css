@@ -99,6 +99,11 @@ li {
   font-weight: 500;
   line-height: 24px; /* 120% */
 }
+.subtitle-text {
+  font-size: 16;
+  line-height: 1.5;
+  color: #434455;
+}
 .team-list-item {
   text-align: center;
 }
