@@ -50,10 +50,12 @@ li {
   font-style: normal;
 }
 /* section hero */
-
+.about {
+  background-color: #2e2f42;
+}
 .hero-title {
   background-color: #2e2f42;
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -61,9 +63,16 @@ li {
   letter-spacing: 0.02em;
 }
 .hero button {
+  color: #ffffff;
   font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   background: #4d5ae5;
+  cursor: pointer;
+}
+.hero button:hover,
+.hero button:focus {
+  color: #404bbf;
 }
 /* section about */
 .about-list {
