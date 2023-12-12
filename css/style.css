@@ -34,17 +34,16 @@ li {
 .header-item-link {
   color: #2e2f42;
 }
-.header-item-link:hover {
-  color: #404bbf;
-}
+.header-item-link:hover,
 .header-item-link:focus {
   color: #404bbf;
 }
-.header-item {
+
+.nav-adress-link {
   color: #434455;
 }
-.header-item:hover,
-.header-item:focus {
+.nav-adress-link:hover,
+.nav-adress-link:focus {
   color: #404bbf;
 }
 .nav-adress {
