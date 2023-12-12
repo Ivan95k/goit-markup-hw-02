@@ -34,7 +34,8 @@ li {
 .header-item-link {
   color: #2e2f42;
 }
-.header-item-link: hover, .header-items:focus {
+.header-item-link:hover,
+.header-items:focus {
   color: #404bbf;
 }
 .header-items .hero-title {
