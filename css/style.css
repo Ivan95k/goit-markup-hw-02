@@ -35,8 +35,11 @@ li {
   color: #2e2f42;
 }
 .header-item-link:hover,
-.header-items:focus {
+.header-items-link:focus {
   color: #404bbf;
+}
+.nav-adress {
+  font-style: normal;
 }
 .header-items .hero-title {
   background-color: #2e2f42;
