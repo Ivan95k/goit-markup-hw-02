@@ -31,7 +31,13 @@ li {
 .header-nav {
   font-weight: 500;
 }
-.hero-title {
+.header-items {
+  color: #2e2f42;
+}
+.header-items: hover, .header-items:focus {
+  color: #404bbf;
+}
+.header-items .hero-title {
   background-color: #2e2f42;
   color: #fff;
   text-align: center;
