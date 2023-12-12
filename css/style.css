@@ -31,10 +31,10 @@ li {
 .header-nav {
   font-weight: 500;
 }
-.header-items {
+.header-item-link {
   color: #2e2f42;
 }
-.header-items: hover, .header-items:focus {
+.header-item-link: hover, .header-items:focus {
   color: #404bbf;
 }
 .header-items .hero-title {
